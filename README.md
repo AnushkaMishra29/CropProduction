@@ -62,3 +62,8 @@ A machine learning-powered Streamlit web application that predicts total crop pr
 -Add location-based filtering using maps
 -Integrate real-time weather data
 -Enable model retraining with new user data
+
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/c5664604-e0c3-4214-ae6b-8f5d7d88ac1b" />
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/8b72c105-69c0-4a06-88e1-beb260f84697" />
+
+
