@@ -1,4 +1,4 @@
-# 🌾 Crop Production Predictor
+# 🌾 Crop Production Predictor using two Regressions
 
 A machine learning-powered Streamlit web application that predicts total crop production (in tons) based on agricultural parameters such as area harvested and yield. This tool helps stakeholders make informed decisions in agricultural planning and resource allocation.
 
